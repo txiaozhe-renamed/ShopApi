@@ -1,0 +1,6 @@
+
+.idea/
+.idea/vcs.xml
+server/server
+*.exe
+server/server.exe
